@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+h1{text-align:center;
+		text-decoration:none;
+	background: linear-gradient(gray,blue);
+	color: aliceblue;
+}
+
+
+
+.subtitulo{
+	font-size:12px;
+}
+
+body{
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+	background: #e8e8e8;
+	
+}
+
+
+table{
+	
+	
+	width: 400px;
+	border-collapse: collapse;
+	border-spacing:0px;
+	
+	
+}
+
+
+
+table td{
+	text-align:center;
+	border:2px solid;
+	
+}
+
+table .sin{
+	border:0;
+}
+
+table .bot{
+	padding:5px;
+	display:inline;
+	border:0;
+}
+
+table .primera_fila{
+	font-size:1.5em;
+	
+	background-color:#092327;
+	color: aliceblue;
+}
+
+.centrado{
+	text-align:center;
+}
+
+
+
+
