@@ -1,7 +1,7 @@
-Sistema de Gestión de Menú
+                                                                          Sistema de Gestión de Menú
 Este proyecto es un sistema de gestión de menú diseñado para restaurantes o establecimientos de alimentos. Proporciona una plataforma para gestionar diferentes aspectos del menú, como bebidas, caramelos, comida colombiana y comida marina colombiana. El sistema incluye funcionalidades de inicio de sesión, registro de usuarios, edición, eliminación y conexión a la base de datos.
 
-Estructura de Carpetas
+Estructura de Carpetas:
 bebidas.php: Maneja la gestión de bebidas en el menú.
 caramelos.php: Gestiona la gestión de caramelos en el menú.
 cerrar_sesion.php: Permite a los usuarios cerrar sesión en el sistema.
@@ -35,4 +35,5 @@ Utilice las diferentes funcionalidades proporcionadas para gestionar el menú se
 Asegúrese de cerrar sesión después de su uso para mantener la seguridad del sistema.
 Contribución
 Si desea contribuir a este proyecto, por favor abra un issue o envíe una solicitud de extracción.
+
 
